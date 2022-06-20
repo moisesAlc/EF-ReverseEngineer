@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkReverseEngineer", "EntityFrameworkReverseEngineer\EntityFrameworkReverseEngineer.csproj", "{0823B3EE-AB78-4618-9D06-8F7209B3E486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0823B3EE-AB78-4618-9D06-8F7209B3E486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0823B3EE-AB78-4618-9D06-8F7209B3E486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0823B3EE-AB78-4618-9D06-8F7209B3E486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0823B3EE-AB78-4618-9D06-8F7209B3E486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9611117D-DF77-409F-B3D3-A311BC9D4D7F}
+	EndGlobalSection
+EndGlobal
